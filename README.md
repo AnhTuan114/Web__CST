@@ -1,6 +1,4 @@
 # ie104__web--CST
-web technology project by 3 members
-Project Description:
 The project involves building the front-end of an online car tire sales website. The website will have the following pages:
 
 Home Page: Business information, products, initiatives, and registration details for consulting.
