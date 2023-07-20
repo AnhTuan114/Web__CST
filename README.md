@@ -21,7 +21,7 @@ Key Points of Focus:
 The website will be fully designed and built using only HTML, CSS, PHP, and JavaScript.
 
 Technologies Used:
-JavaScript, HTML, CSS, Windows, Google Meet
+JavaScript, HTML, CSS, PHP
 
 Team Size:
 3 members
